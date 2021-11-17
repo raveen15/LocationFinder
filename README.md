@@ -6,6 +6,6 @@ CRUD operations are present in this application to add, remove, or update locati
 
 ## Setup
 
-Clone the project into a designated folder and import project using Android Studio.
+Clone or download the project into a designated folder and import project using Android Studio.
 
 NOTE: If there are any gradle build errors, delete the .idea folder and rebuild project.
