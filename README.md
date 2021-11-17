@@ -8,4 +8,4 @@ CRUD operations are present in this application to add, remove, or update locati
 
 Clone the project into a designated folder and import project using Android Studio.
 
-NOTE: If there are any gradle build errors, delete the .idea and .gradle folders and rebuild project.
+NOTE: If there are any gradle build errors, delete the .idea folder and rebuild project.
